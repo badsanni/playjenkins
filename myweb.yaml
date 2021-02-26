@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: 192.168.1.238:5000/justme/myweb:1
+      - image: 35.245.155.246:5000/justme/myweb:1
         imagePullPolicy: Always
         name: myweb
 
